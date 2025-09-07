@@ -1,4 +1,4 @@
-# React + TypeScript + Vite Counter
+Counter made with React + TypeScript + Vite + TailwindCss
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
